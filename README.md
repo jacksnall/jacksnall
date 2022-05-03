@@ -1,8 +1,20 @@
 ## About Me
 
-I have over 9 years of professional experience in software development, especially focus on web development using JavaScript (React) and Python (Django).
+I am a full-stack web developer with over 10 years of experience working with both large and small companies. I can help you with development work ranging from independent projects with minimal guidance to joining your existing development team and integrating them into your established workflow.
 
-Also, I'm highly proficient in HTML5, CSS, TypeScript, PostgreSQL, RESTful API, GraphQL, Git, AWS, and more. My extensive knowledge of Python and JavaScript allowed being productive in other parts.
+My main area of focus is full stack development using Python/JavaScript related technologies. Below you can see my key skills:
+
+- Python, Django, Django REST Framework, Flask, FastAPI
+- Go/Golang
+- JavaScript, TypeScript, jQuery, React, Vue.js, D3.js
+- HTML5, CSS/Sass, Bootstrap, Material UI, Tailwind CSS
+- MySQL, PostgreSQL, MongoDB, Redis
+- AWS(Lambda, Dynamo, Amplify, S3), Azure Cloud, Docker, Heroku
+- Git, CI/CD, DevOps
+
+Along with strong communication skills and an exemplary work ethic, I've brought my hands-on experience with a wide range of programming languages. Throughout my career, I've worked on multiple agile teams as a core developer to build enterprise-grade distributed applications that solve real-world problems.
+
+I enjoy bringing value to clients via JavaScript and Python-driven applications. I'd love to write exceptionally clean code and am a stickler for testing, ensuring accuracy and stability.
 
 ## Skills
 
