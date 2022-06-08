@@ -35,8 +35,8 @@ I enjoy bringing value to clients via Python and JavaScript-driven applications.
 ## My Stats
 
 <p>
-<a href="https://github.com/jude-hopkins">
+<a href="https://github.com/travigers">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=smiledev1230&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jude-hopkins&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=travigers&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
