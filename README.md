@@ -1,19 +1,35 @@
 ## About Me
 
-I specialize in Python programming for over 10 years, specifically I'm an expert in Django and Flask. I'm also highly proficient in front-end development using React, and Vue.js. I can help you with development work ranging from independent projects with minimal guidance to joining your existing development team and integrating them into your established workflow. Below you can see my main skills in detail:
+I have professional experience in Python and JavaScript frameworks such as Django, Flask, React, Angular, and Vue.js and have worked on more than 50 big and small projects which include Enterprise level applications, and eCommerce, Real Estate, Finance, and Healthcare websites.
 
-- Python, Django, Django REST Framework, Flask, FastAPI
-- Go/Golang
-- JavaScript, TypeScript, jQuery, React, Vue.js, D3.js
-- HTML5, CSS/Sass, Bootstrap, Material UI, Tailwind CSS
-- MySQL, PostgreSQL
-- RESTful API, GraphQL
-- AWS(Lambda, DynamoDB, Amplify, S3), Azure Cloud, Docker, Heroku
-- Git, CI/CD, DevOps
+Core Python
+Always used Python's latest version along with the unit test, PEP standard, and KISS and OWASP security followed for coding. Always follow SOLID principles so that all my codes can be understood and extended by any good developer later. Almost all methods are tested by unit testing various test cases. Each method is checked by profiling for its better performance.
 
-Along with strong communication skills and an exemplary work ethic, I've brought my hands-on experience with a wide range of programming languages. Throughout my career, I've worked on multiple agile teams as a core developer to build enterprise-grade distributed applications that solve real-world problems.
+Django, Flask
+I have used mostly Django and Flask framework but also use Tornado async. Django, Django CMS, Django Rest Framework, Django-extensions, Django-rest-framework-jwt, Django-rest-swagger, Django-simple-history, Django-model-utils, Django-storage, Django-allauth, Django-socialauth, debug toolbar, etc.
 
-I enjoy bringing value to clients via Python and JavaScript-driven applications. I'd love to write exceptionally clean code and am a stickler for testing, ensuring accuracy and stability.
+Frontend
+The front end I have been using from HTML5 to JavaScript, jQuery, Angular, React, and Vue.js for years.
+
+Databases
+I am expertise with different databases like PostgreSQL, MySQL, MariaDB, MongoDB, NoSQL, etc.
+
+REST API
+All REST API is Open API standards and most of them are with Swagger defined. So they are the highest standard in every direction.
+
+Cloud
+I have working to create microservices applications in different cloud platforms say AWS and Azure.
+
+AWS
+Some of the tools I used in AWS various tools including Code Commit, Code Build, Code Deploy, Code Pipeline, Cli, EC2, S3, EBS, DynamoDB, RDS, Lambda with Boto3, VPC, Light Shell, Sage Maker, Kinesis, SQS, SNS, AppSync, Beanstalk, ECR, ECS, Farget, EKS, SES, ElastiCache, CloudWatch, IAM, Cognito, ApiGateway, Shield, SSO, Route53, CloudFront, ELB, ALB.
+
+Artificial Intelligence
+My work is not limited to general Python and MVC-based work. Used different libraries including TensorFlow, Keras, Numpy, Pandas, Matplotlib, ScikitLearn, etc.
+
+Development environment and process
+Always use the highly secure development environment along with Git, Docker, and Kubernetes.
+
+Experience in entire software development life cycle and decision-making. Skilled at building an effective and productive working relationship with clients and team members. Software Product/Tools worked with: Python / Django / Pyramid, PostgreSQL / MySQL / SQL Server / Oracle, JavaScript, Ajax, jQuery, Amazon Web Services, Heroku, Google App Engine, Google API, FedEx API, Stripe API, PayPal API, HIPAA Compliance, Angular, React, open ERP / Odoo, Docker, Redis, Redmine, Celery, RabbitMQ, Twilio API and lots more. I can integrate any API with your existing systems.
 
 ## Skills
 
@@ -35,8 +51,8 @@ I enjoy bringing value to clients via Python and JavaScript-driven applications.
 ## My Stats
 
 <p>
-<a href="https://github.com/travigers">
+<a href="https://github.com/justinschenk309">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=smiledev1230&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=travigers&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=justinschenk309&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
