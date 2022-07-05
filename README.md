@@ -1,8 +1,19 @@
 ## About Me
 
-I have professional experience in Python and JavaScript frameworks such as Django, Flask, React, Angular, and Vue.js and have worked on more than 50 big and small projects which include Enterprise level applications, and eCommerce, Real Estate, Finance, and Healthcare websites.
-
-Experience in entire software development life cycle and decision-making. Skilled at building an effective and productive working relationship with clients and team members. Software Product/Tools worked with: Python / Django / Pyramid, PostgreSQL / MySQL / SQL Server / Oracle, JavaScript, Ajax, jQuery, Amazon Web Services, Heroku, Google App Engine, Google API, FedEx API, Stripe API, PayPal API, HIPAA Compliance, Angular, React, open ERP / Odoo, Docker, Redis, Redmine, Celery, RabbitMQ, Twilio API and lots more. I can integrate any API with your existing systems.
+I have been working with Python and JavaScript for over 10 years and have expertise in Django, Flask, React, and Vue.js. I can help you with development work ranging from independent projects to joining your existing development team and integrating them into your established workflow.
+ 
+I also write clean code and am a stickler for testing, ensuring accuracy and stability. I enjoy bringing value to clients via Python and JavaScript-driven applications.
+ 
+My skillsets:
+- Python, Django, Django REST Framework, Flask, FastAPI
+- Go/Golang
+- JavaScript, TypeScript, React, Vue.js, Node.js
+- HTML5, CSS3, Bootstrap, Material UI, Tailwind CSS
+- MySQL, PostgreSQL, MongoDB, Redis
+- RESTful API
+- GraphQL
+- AWS (Lambda, Cognito, S3, EC2, DynamoDB, API Gateway, etc)
+- Git, Jira, Trello, Asana
 
 ## Skills
 
