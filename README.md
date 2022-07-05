@@ -3,17 +3,6 @@
 I have been working with Python and JavaScript for over 10 years and have expertise in Django, Flask, React, and Vue.js. I can help you with development work ranging from independent projects to joining your existing development team and integrating them into your established workflow.
  
 I also write clean code and am a stickler for testing, ensuring accuracy and stability. I enjoy bringing value to clients via Python and JavaScript-driven applications.
- 
-My skillsets:
-- Python, Django, Django REST Framework, Flask, FastAPI
-- Go/Golang
-- JavaScript, TypeScript, React, Vue.js, Node.js
-- HTML5, CSS3, Bootstrap, Material UI, Tailwind CSS
-- MySQL, PostgreSQL, MongoDB, Redis
-- RESTful API
-- GraphQL
-- AWS (Lambda, Cognito, S3, EC2, DynamoDB, API Gateway, etc)
-- Git, Jira, Trello, Asana
 
 ## Skills
 
