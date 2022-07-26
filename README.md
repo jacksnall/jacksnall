@@ -1,6 +1,6 @@
 ## About Me
 
-I have been working with Python and JavaScript for over 10 years, specifically I have expertise in Django, Flask, React, and Vue.js. I can help you with development work ranging from independent projects to joining your existing development team and integrating them into your established workflow.
+I have been working with Python and JavaScript for over 10 years, specifically I have expertise in Django, and React. I can help you with development work ranging from independent projects to joining your existing development team and integrating them into your established workflow.
  
 I also write clean code and am a stickler for testing, ensuring accuracy and stability. I enjoy bringing value to clients via Python and JavaScript-driven applications.
 
@@ -24,8 +24,8 @@ I also write clean code and am a stickler for testing, ensuring accuracy and sta
 ## My Stats
 
 <p>
-<a href="https://github.com/jacksnall">
+<a href="https://github.com/lcsdixon">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=smiledev1230&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jacksnall&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lcsdixon&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
